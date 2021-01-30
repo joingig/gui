@@ -20,4 +20,4 @@ Random gui and graphics algo snippets.
 
 - junk looking [clock](clock00.py). python3, tk.
   
-  ![](.\imgs/klock.png)
+  ![](./imgs/klock.png)
