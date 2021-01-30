@@ -1,8 +1,6 @@
-#import os
 #import numpy
 from secrets import choice
 from time import time, sleep, strftime
-from math import pi
 from tkinter import Tk, Canvas, PhotoImage, mainloop, messagebox
 
 #globals
@@ -123,8 +121,8 @@ def main():
 					spreadFire(y*w_height+x)
       
 		#copy fire array 2 canvas
-		for y in range(0, w_height, 3):
-			for x in range(0, w_width, 3):
+		for y in range(0, w_height, 2):
+			for x in range(0, w_width, 2):
 				if fire[y*w_height+x] != 0:
 					# print(
 					#  	f'fire[y*w_height+x] = {fire[y*w_height+x]},color from fire[y*w_height+x] : {f_palette[fire[y*w_height+x]]}'
