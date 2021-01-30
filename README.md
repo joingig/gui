@@ -2,7 +2,7 @@
 
 Random gui and graphics algo snippets.
 
-- DOOM fire algorithm. python3, tk.
+- DOOM [fire](fir00.py) algorithm. python3, tk.
   
   ![](./imgs/fir00.png)
   
@@ -12,16 +12,12 @@ Random gui and graphics algo snippets.
   #TODO burn!
   for x in range(0, w_width, 3):
       for y in range(0, w_height, 3):
-  		if fire[y*w_height+x] > 0:
-  			spreadFire(y*w_height+x)
+          if fire[y*w_height+x] > 0:
+              spreadFire(y*w_height+x)
   ```
   
   ![](./imgs/fir01.png)
-  
-  
-  
-  
 
-- junk looking clock. python3, tk.
-
-![](.\imgs/klock.png)
+- junk looking [clock](clock00.py). python3, tk.
+  
+  ![](.\imgs/klock.png)
