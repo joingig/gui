@@ -24,4 +24,4 @@ Random gui and graphics algo snippets.
 
 - junk looking clock. python3, tk.
 
-![](./imgs/klock.png)
+  ![](./imgs/klock.png)
