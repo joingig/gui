@@ -18,10 +18,6 @@ Random gui and graphics algo snippets.
   
   ![](./imgs/fir01.png)
 
-<<<<<<< HEAD
 - junk looking [clock](clock00.py). python3, tk.
   
   ![](.\imgs/klock.png)
-=======
-  ![](./imgs/klock.png)
->>>>>>> 57b33d2d2bb220a19d0a0d77d5999a4fd210818f
