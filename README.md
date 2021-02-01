@@ -1,6 +1,7 @@
 # gui
 
 Random gui and graphics algo snippets.
+Tkinter and so on.
 
 - DOOM [fire](fir00.py) algorithm. python3, tk.
   
