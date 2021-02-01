@@ -20,3 +20,8 @@ Random gui and graphics algo snippets.
 - junk looking [clock](clock00.py). python3, tk.
   
   ![](./imgs/klock.png)
+
+- rainy night. [rain](rain.py) with python3, tk.
+  
+  ![](./imgs/rain.png)
+
