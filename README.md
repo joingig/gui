@@ -3,7 +3,7 @@
 Random gui and graphics algo snippets.
 Tkinter and so on.
 
-- DOOM [fire](fir00.py) algorithm. python3, tk.
+- DOOM [fire](fir00.py) algorithm. python3, tkinter.
   
   ![](./imgs/fir00.png)
   
@@ -18,11 +18,16 @@ Tkinter and so on.
   
   ![](./imgs/fir01.png)
 
-- junk looking [clock](clock00.py). python3, tk.
+- junk looking [clock](clock00.py). python3, tkinter.
   
   ![](./imgs/klock.png)
 
-- rainy night. [rain](rain.py) with python3, tk.
+- rainy night. [rain](rain.py) with python3, tkinter.
   
   ![](./imgs/rain.png)
+
+- let it Snow. [snow](snow01.py) with python3, tkinter.
+  
+  ![](./imgs/snow.png)
+
 
